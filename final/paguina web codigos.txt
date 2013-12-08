@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>
+bebidas
+</title>
+<body>
+<h1>bebidas</h1>
+<p>Los cócteles son preparados que se realizan a base de una mezcla de diferentes tipos de bebidas.
+ En la gran mayoría de los casos están formados por uno o más tipos de bebidas alcohólicas. 
+La coctelería se ha convertido casi en una ciencia que cada día suma más seguidores.</p>
+<h3> piña colada>
+<h4>ingredientes</h4>
+ <p>3 onzas de crema de coco</p>
+<p> 3 onzas de jugo de piña</p>
+<p> 1 1/4 onzas de ron</p>
+<p> 1 rebanada de piña</p>
+<h4>preparacion</h4>
+<p>En una licuadora mezcle todos los ingredientes y 1 taza de hielo (menos la rodaja de piña).</p>
+<p>Sirva en un vaso alto y decore con la rodaja de piña.</P>
+<img src="piña">
+			<br>
+<h3>margarita</h3>
+<h4> ingredientes</h4>
+<p>1 1/2 tazas de jugo de limón fresco</p>
+<p>1 1/2 tazas de tequila</p>
+<p>1 1/2 de taza de licor de naranja (ej. Cointreau® o Controy®)</p>
+<p>1 limón, cortado en 8 gajos</p
+<p>Sal de grano, al gusto</p>
+<h4>preparacion</h4>
+<p>Mezcla el agua, jugo de limón, tequila y licor de naranja en una jarra de 2 litros. Mezcla bien.</p>
+<p>Para servir, humedece el borde de una copa de 
+margarita con limón y escarcha con la sal. 
+Pon el hielo dentro de la copa y vierte la margarita 
+encima. Decora con una rodaja de limón.</p>
+<img src="margarita">
+			<br>
+<h3>acapulco de noche</h3>
+<h4> ingredientes</h4>
+<p>* 2 onzas de tequila </P>
+<p>* 1 onza de ron blanco </p>
+<p>* 3 onzas de jugo de naranja</p>
+<h4>preparacion</h4> 
+<p>Preparar en copa de coctel con el borde escarchado de azúcar corriente, preferentemente morena.</p>
+ <p>Colocar 1 ó 2 cubos de hielo y verter en orden el tequila, el ron y el jugo. </P>
+<p>Decorar con una rodaja de naranja y una cereza roja.</p>
+<img src="acapulco">
+				
+			<br>
+<h2>APERITIVOS</h2>
+<h3>Ojos de queso espeluznantes.</h3>
+<img src="ojos"> 
+<h4>INGREDIENTES PARA 6 OJOS</h4>
+<p>6 quesitos redondos,</p> 
+<p>3 aceitunas negras sin hueso,</p>
+<p>colorante rojo y unas gotas de salsa kétchup.</p>
+<h4>PREPARACION</h4>
+<p>Empezamos dibujando, con la ayuda de un pincel fino, las venitas en los 
+quesitos con el colorante rojo. Mientras el colorante rojo se seca, 
+vamos laminando las aceitunas negras deshuesadas.</p>
+<p>Colocamos un aro de aceituna sobre cada quesito, en el centro y, por último, 
+cubrimos el centro de cada aro con unas gotas de kétchup</p>
+<img src="pasoapaso-10">			
+
+			<br>
+
+<h3>Monstruitos de queso.</h3>
+<img src=monstruitos">
+<h4>INGREDIENTES PARA UNOS 8 O 10 MONSTRITOS</h4>
+<P>Para los cuerpos: 125 g de queso crema, 100 g de queso rallado, 
+1/2 cucharadita de mostaza, 1/2 cucharadita de orégano, 1/4 cucharadita de pimentón, 
+una pizca de ajo granulado, pimienta negra al gusto.</p>
+<p>Para la decoración: 100-125 g de queso rallado, palitos salados, lonchas de queso blanco, 
+aceitunas negras, un poco de queso crema extra, rotulador negro comestible (opcional).</p>
+<h4>PREPARACION</h4>
+<p>Disponer el queso crema en un cuenco, procurando no echar nada de líquido de suero, si lo tuviera. 
+Añadir el queso rallado, la mostaza, el orégano, el pimentón, el ajo granulado y pimienta negra recién 
+molida al gusto. Mezclar todo bien hasta conseguir una masa homogénea.</p>
+<p>Colocar el resto del queso rallado en otro recipiente. Con ayuda de unas cucharillas, 
+tomar porciones de masa, dar forma redondeada y rebozar bien en el queso rallado. 
+Darle la forma deseada y disponerlo en una bandeja o plato aparte. Partir palitos 
+salados de aperitivo hasta dejar la longitud necesaria y pinchar dos o tres 
+en la parte superior.</p>
+<p>Recortar las bocas con un buen cuchillo afilado a partir de aceitunas negras. 
+Recortar pequeños círculos de la loncha de queso, con un mini cortador si lo tuviéramos 
+una boquilla redonda, o a mano con un cuchillo. Colorear el centro con un rotulador 
+comestible. Si no tenemos rotulador, podemos recortar un trocito de aceituna y pegarla. 
+Pegar los ojos a los palitos y las aceitunas al cuerpo, usando un poco 
+de queso crema extra.</p>
+<img src="monstruitos-pas">
+		
+			<br>
+
+<h3>Langostinos empanados en copos de maíz. </h3>
+<img src="langostinos">
+<h4>INGREDIENTES</h4>
+<p>12 langostinos crudos, </p>
+<p>1 huevo, copos de maíz,</p>
+ <p>pan rallado y aceite de oliva.</p>
+ <p>Además necesitaréis brochetas de madera.</p>
+<h4>PREPARACION</h4>
+<p>Comenzamos preparando los copos de maíz para facilitar el empanado.
+ Con un robot de cocina, damos dos o tres toques para triturarlos ligeramente y 
+los mezclamos con el pan rallado, dejando lista la mezcla en un plato para cuando 
+tengamos listos los langostinos.</p>
+<p>Para dejar preparados los langostinos, retiramos la cabeza y los pelamos dejando 
+sin quitar la cola para que tengan mejor aspecto. Aprovechamos para quitarles el 
+intestino —esa especie de hilillo negro—.</p>
+<p>Para evitar que se encojan al freírlos, 
+los ensartamos en brochetas de madera que les hagan mantener 
+su forma estirada. Después de ensartarlos, cortamos el exceso de
+ brocheta y los sazonamos con un poco de sal.</p>
+<p>Finalmente los pasamos por huevo batido y los empanamos 
+con los copos de maíz que habíamos machacado y los freímos en 
+aceite muy caliente para que se doren sin resecarse en el interior.
+ Los escurrimos en papel de cocina y los servimos inmediatamente. 
+Si los queréis congelar, hacedlo una vez empanados pero antes de freírlos.</p>
+<img src="langostinos-copos-pasos">
+</body>
+
+</html>
